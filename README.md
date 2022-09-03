@@ -4,7 +4,7 @@
 |-|-|-|
 | <img width="320" src="screenshots/popular_day.png" /> | <img width="320" src="screenshots/favourite_day.png" /> | <img width="320" src="screenshots/settings_day.png" /> |
 
-Simple currency app which uses [currencyapi](https://currencyapi.com/docs/latest) to fetch data.
+Simple currency app which uses [currencyapi](https://currencyapi.com/docs/latest) to fetch data. To run the app paste CURRENCY_API_KEY from currencyapi.
 
 App's architecture is inspired by by Chris Banes' [Tivi app](https://github.com/chrisbanes/tivi). The app uses the following frameworks:
 - [Room](https://developer.android.com/jetpack/androidx/releases/room)
