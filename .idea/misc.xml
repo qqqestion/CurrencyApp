@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/animeee/Programming/Android/CurrencyApp/app/src/main/res/drawable/ic_check_24.xml" value="0.196" />
+        <entry key="..\:/Users/animeee/Programming/Android/CurrencyApp/app/src/main/res/drawable/ic_save_24.xml" value="0.196" />
+        <entry key="..\:/Users/animeee/Programming/Android/CurrencyApp/app/src/main/res/drawable/ic_settings_24.xml" value="0.196" />
+        <entry key="..\:/Users/animeee/Programming/Android/CurrencyApp/app/src/main/res/drawable/ic_sort_24.xml" value="0.196" />
+        <entry key="..\:/Users/animeee/Programming/Android/CurrencyApp/app/src/main/res/drawable/ic_star_24.xml" value="0.196" />
+        <entry key="..\:/Users/animeee/Programming/Android/CurrencyApp/app/src/main/res/drawable/ic_star_border_24.xml" value="0.196" />
+        <entry key="..\:/Users/animeee/Programming/Android/CurrencyApp/app/src/main/res/drawable/ic_stars_24.xml" value="0.196" />
+        <entry key="..\:/Users/animeee/Programming/Android/CurrencyApp/app/src/main/res/layout/activity_main.xml" value="0.5571658615136876" />
+        <entry key="..\:/Users/animeee/Programming/Android/CurrencyApp/app/src/main/res/layout/fragment_currency_list.xml" value="0.262037037037037" />
+        <entry key="..\:/Users/animeee/Programming/Android/CurrencyApp/app/src/main/res/layout/fragment_favourite.xml" value="0.262037037037037" />
+        <entry key="..\:/Users/animeee/Programming/Android/CurrencyApp/app/src/main/res/layout/fragment_popula.xml" value="0.4009259259259259" />
+        <entry key="..\:/Users/animeee/Programming/Android/CurrencyApp/app/src/main/res/layout/fragment_popular.xml" value="0.328125" />
+        <entry key="..\:/Users/animeee/Programming/Android/CurrencyApp/app/src/main/res/layout/fragment_settings.xml" value="0.5656410256410257" />
+        <entry key="..\:/Users/animeee/Programming/Android/CurrencyApp/app/src/main/res/layout/fragment_sort.xml" value="0.262037037037037" />
+        <entry key="..\:/Users/animeee/Programming/Android/CurrencyApp/app/src/main/res/layout/item_currency.xml" value="0.4009259259259259" />
+        <entry key="..\:/Users/animeee/Programming/Android/CurrencyApp/app/src/main/res/layout/item_currency_rate.xml" value="0.4009259259259259" />
+        <entry key="..\:/Users/animeee/Programming/Android/CurrencyApp/app/src/main/res/layout/sample_my_view.xml" value="0.262037037037037" />
+        <entry key="..\:/Users/animeee/Programming/Android/CurrencyApp/app/src/main/res/menu/app_bar.xml" value="0.4009259259259259" />
+        <entry key="..\:/Users/animeee/Programming/Android/CurrencyApp/app/src/main/res/menu/bottom_navigation.xml" value="0.49537037037037035" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

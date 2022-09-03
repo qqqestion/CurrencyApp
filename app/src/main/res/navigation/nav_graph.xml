@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/popularFragment"
+    >
+    <fragment
+        android:id="@+id/popularFragment"
+        android:name="ru.tashkent.currencyapp.ui.popular.PopularFragment"
+        android:label="fragment_popular"
+        tools:layout="@layout/fragment_popular"
+        />
+    <fragment
+        android:id="@+id/favouriteFragment"
+        android:name="ru.tashkent.currencyapp.ui.favourite.FavouriteFragment"
+        android:label="fragment_favourite"
+        tools:layout="@layout/fragment_favourite"
+        />
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="ru.tashkent.currencyapp.ui.settings.SettingsFragment"
+        android:label="SettingsFragment"
+        tools:layout="@layout/fragment_settings"
+        />
+</navigation>

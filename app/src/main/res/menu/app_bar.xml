@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <item
+        android:id="@+id/action_alphabet_ascending"
+        android:title="@string/alphabetically_ascending"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/action_alphabet_descending"
+        android:icon="@drawable/ic_stars_24"
+        android:title="@string/alphabetically_descending"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/action_rate_ascending"
+        android:title="@string/rate_ascending"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/action_rate_descending"
+        android:icon="@drawable/ic_stars_24"
+        android:title="@string/rate_descending"
+        app:showAsAction="never"
+        />
+</menu>

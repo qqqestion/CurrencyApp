@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.V21.Night.Theme.CurrencyApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/prim</item>
+        <item name="colorPrimaryVariant">#00FF00</item>
+        <item name="colorOnPrimary">#FF0000</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/prim</item>
+        <item name="colorSecondaryVariant">#00FFFF</item>
+        <item name="colorOnSecondary">#FF00FF</item>
+
+        <item name="android:statusBarColor">@color/ebony_clay</item>
+        <item name="android:background">@color/ebony_clay</item>
+        <item name="snackbarStyle">@style/Widget.CurrencyApp.Snackbar</item>
+        <item name="snackbarTextViewStyle">@style/Widget.CurrencyApp.Snackbar.TextView</item>
+        <item name="android:textColor">@color/prim</item>
+        <item name="popupTheme">@style/Widget.CurrencyApp.PopUpMenu</item>
+    </style>
+
+    <style name="Base.Theme.CurrencyApp" parent="Base.V21.Night.Theme.CurrencyApp" />
+
+    <style name="Theme.CurrencyApp" parent="Base.Theme.CurrencyApp" />
+</resources>

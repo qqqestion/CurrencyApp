@@ -1,0 +1,16 @@
+<resources>
+
+    <style name="Widget.CurrencyApp.PopUpMenu" parent="Widget.Material3.PopupMenu.ListPopupWindow">
+        <item name="popupMenuBackground">@color/lola</item>
+        <item name="android:textColor">@color/ebony_clay</item>
+    </style>
+
+    <style name="Widget.CurrencyApp.Snackbar" parent="Widget.MaterialComponents.Snackbar">
+        <item name="android:backgroundTint">@color/lola</item>
+    </style>
+
+    <style name="Widget.CurrencyApp.Snackbar.TextView" parent="Widget.MaterialComponents.Snackbar.TextView">
+        <item name="android:fontFamily">@font/roboto</item>
+        <item name="android:textColor">@color/ebony_clay</item>
+    </style>
+</resources>
