@@ -27,9 +27,9 @@ class ApiModule {
                     it.request().newBuilder()
                         .url(
                             it.request().url.newBuilder()
-//                                .addQueryParameter(
-//                                    "apikey", BuildConfig.API_KEY
-//                                )
+                                .addQueryParameter(
+                                    "apikey", BuildConfig.API_KEY
+                                )
                                 .build()
                         )
                         .build()
